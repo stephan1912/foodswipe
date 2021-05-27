@@ -402,8 +402,12 @@ http://www.templatemo.com/tm-515-eatery
     height: 650px;
   }
 
-  .slider .item-first {
+  .slider .custom-item {
     background-image: url(../asstes/img/slider1.jpg);
+  }
+
+  .slider .item-first {
+    background-image: url(../images/slider-image1.jpg);
   }
 
   .slider .item-second {
